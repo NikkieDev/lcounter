@@ -1,0 +1,5 @@
+The "lcounter-setup" program will add "lcounter.exe" to your System Path.
+Run "lcounter-setup" first, if this is your first time using lcounter.
+After running "lcounter-setup", you have to restart your PC, and then you can use lcounter in your terminal.
+
+usage (in cmd/powershell): lcounter <directoryName>
